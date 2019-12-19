@@ -10,7 +10,6 @@ lottie  动画库
 
 #### 实现效果
 
-![Screenrecorder-2019-12-19-15-05-00-572](https://github.com/e9ab98e991ab/NavViewBottom/blob/master/image/Screenrecorder-2019-12-19-15-05-00-572.png?raw=true)
-
-<video src="https://github.com/e9ab98e991ab/NavViewBottom/blob/master/image/Screenrecorder-2019-12-19-15-05-00-572.mp4"></video>
+![Screenrecorder-2019-12-19-15-05-00-572](https://github.com/e9ab98e991ab/NavViewBottom/blob/master/image/Screenrecorder-2019-12-19-15-05-00-572.gif?raw=true)
+ 
 
