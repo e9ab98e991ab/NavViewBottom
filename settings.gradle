@@ -1,0 +1,2 @@
+include ':app', ':rigger'
+rootProject.name='NavViewBottom'
